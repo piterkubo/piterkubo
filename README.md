@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil PiterKubo 😁
+## Bem-vindo(a) ao perfil PiterKubo 😁🎮💻
 
  <div>
    <a href="https://github.com/piterkubo">
