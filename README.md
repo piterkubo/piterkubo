@@ -22,7 +22,7 @@
  
   
  
-   ![Snake animation](https://github.com/piterkubo/piterkubo/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/piterkubo/piterkubo/blob/output/github-snake-dark.svg)
 
 
 </div>
